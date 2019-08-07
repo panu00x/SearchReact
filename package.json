@@ -1,0 +1,29 @@
+{
+  "name": "search-react",
+  "version": "1.0.0",
+  "description": "### Install global tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "axios": "^0.18.1",
+    "babel-preset-react-app": "^9.0.0",
+    "parcel-bundler": "^1.12.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-bcircle/search-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/i-bcircle/search-react/issues"
+  },
+  "homepage": "https://github.com/i-bcircle/search-react#readme"
+}
